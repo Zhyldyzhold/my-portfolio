@@ -26,7 +26,11 @@ const Contact = () => {
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messenger</h4>
             <h5>zhyldyzuser</h5>
-            <a href="https://m.me/dummy" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.facebook.com/jyldyz.joldoshova"
+              target="_blank"
+              rel="noreferrer"
+            >
               Send a message
             </a>
           </article>

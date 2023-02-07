@@ -33,10 +33,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro
-            deserunt explicabo rem temporibus dolorum aperiam, exercitationem
-            expedita. Similique laborum deleniti tempora fuga quibusdam
-            nesciunt, non amet soluta consequatur expedita alias.
+            Here are a few words about myself. My name is Zhyldyz. I am a
+            frontend developer. I am from wonderful country Kyrgyzstan. You can
+            scroll through my portfolio page for detailed information. I am
+            interested in alpinism and I was in several peaks. Also, I play,
+            draw with my nephews.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
